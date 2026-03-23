@@ -38,9 +38,17 @@ The project is created for learning and practicing frontend development skills.
 
 ---
 
-📸 Output
+📸## Output
 
-(Add your screenshots here)
+![Home Page](Screenshot 2026-03-24 004201.png)
+
+![Movies Section](Screenshot 2026-03-24 004249.png)
+
+![Trending Section](Screenshot 2026-03-24 004318.png)
+
+![Footer Section](Screenshot 2026-03-24 004436.png)
+
+![Extra Section](Screenshot 2026-03-24 004506.png)
 
 ---
 
